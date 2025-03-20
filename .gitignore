@@ -1,0 +1,17 @@
+# IntelliJ IDEA/Eclipse files
+.idea/
+*.iml
+.classpath
+.settings/
+
+# Maven build output
+target/
+
+# Logs
+*.log
+
+# Dependency directories
+.m2/
+
+# Temporary Excel files
+~$*.xlsx
