@@ -1,11 +1,7 @@
 # IntelliJ IDEA/Eclipse files
 .idea/
 *.iml
-.classpath
 .settings/
-
-# Maven build output
-target/
 
 # Logs
 *.log
